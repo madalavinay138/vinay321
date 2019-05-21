@@ -1,0 +1,7 @@
+# mkdir file
+# git init
+# git status
+# touch file
+# gitadd .
+# git commit -m "som message"
+
